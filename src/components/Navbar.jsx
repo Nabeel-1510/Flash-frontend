@@ -19,7 +19,7 @@ export default function Navbar() {
           <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-brand-500 to-purple-600 flex items-center justify-center shadow-glow">
             <Zap size={18} className="text-white" />
           </div>
-          <span className="text-xl font-bold gradient-text">Flash Clone</span>
+          <span className="text-xl font-bold gradient-text">Snap Search</span>
         </Link>
 
         <div className="flex items-center gap-1">
