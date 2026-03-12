@@ -1,4 +1,4 @@
-# Flash Clone — Frontend
+# Snap Search — Frontend
 
 Next.js 14 frontend for the AI Shopping Assistant.
 
