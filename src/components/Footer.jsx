@@ -10,7 +10,7 @@ export default function Footer() {
               <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-brand-500 to-purple-600 flex items-center justify-center">
                 <Zap size={16} className="text-white" />
               </div>
-              <span className="text-lg font-bold text-white">Flash Clone</span>
+              <span className="text-lg font-bold text-white">Snap Search</span>
             </div>
             <p className="text-sm leading-relaxed">
               AI-powered product research assistant. Get instant, data-driven insights from thousands of reviews.
@@ -31,7 +31,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-surface-800 mt-8 pt-6 text-center text-xs text-surface-700">
-          © 2026 Flash Clone. All rights reserved.
+          © 2026 Snap Search. All rights reserved.
         </div>
       </div>
     </footer>
