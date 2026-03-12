@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Flash Clone — AI Shopping Assistant",
+  title: "Snap Search — AI Shopping Assistant",
   description: "Get AI-powered product insights, review synthesis, and price comparisons in seconds.",
 };
 
